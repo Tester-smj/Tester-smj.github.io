@@ -1807,6 +1807,9 @@ pre .javascript .function {
 .links-of-author {
   margin-top: 20px;
 }
+.links-of-author-item {
+  text-align: center;
+}
 .links-of-author a {
   display: inline-block;
   vertical-align: middle;
@@ -1823,7 +1826,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #a686df;
+  background: #95e0bf;
 }
 .links-of-blogroll {
   font-size: 13px;
